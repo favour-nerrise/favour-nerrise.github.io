@@ -1,2 +1,2 @@
 # favournerrise
-My personal websitee
+My personal website
